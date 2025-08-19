@@ -1,0 +1,6 @@
+2025-08-15 11:25:58,875 - INFO - Login successful for UserID: 1234
+2025-08-15 11:26:14,027 - INFO - Login successful for UserID: 1234
+2025-08-15 11:26:29,908 - INFO - Prediction successful: {'result': {'probability': 0.4147338271141052, 'class': 0}}
+2025-08-15 11:26:32,282 - INFO - Prediction successful: {'result': {'probability': 0.4147338271141052, 'class': 0}}
+2025-08-15 11:47:57,099 - INFO - Prediction successful: {'result': {'probability': 0.4147338271141052, 'class': 0}}
+2025-08-15 11:48:02,210 - INFO - Login successful for UserID: 1234

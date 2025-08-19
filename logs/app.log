@@ -1,0 +1,16 @@
+2025-08-15 11:25:58,850 - INFO - Login attempt for UserID: 1234
+2025-08-15 11:25:58,850 - INFO - Login result: You logged in successfully
+2025-08-15 11:25:58,850 - INFO - Login attempt for UserID: 1234
+2025-08-15 11:25:58,851 - INFO - Login result: You logged in successfully
+2025-08-15 11:25:58,851 - INFO - Login attempt for UserID: 1234
+2025-08-15 11:25:58,851 - INFO - Login result: You logged in successfully
+2025-08-15 11:26:14,024 - INFO - Login attempt for UserID: 1234
+2025-08-15 11:26:14,024 - INFO - Login result: You logged in successfully
+2025-08-15 11:26:29,885 - INFO - Received input values: [5, 6, 7, 8, 9, 0, 0, 0, 0, 0]
+2025-08-15 11:26:29,899 - INFO - Prediction result: {'probability': 0.4147338271141052, 'class': 0}
+2025-08-15 11:26:32,275 - INFO - Received input values: [5, 6, 7, 8, 9, 0, 0, 0, 0, 0]
+2025-08-15 11:26:32,278 - INFO - Prediction result: {'probability': 0.4147338271141052, 'class': 0}
+2025-08-15 11:47:57,086 - INFO - Received input values: [8, 8, 8, 8, 8, 0, 0, 8, 0, 0]
+2025-08-15 11:47:57,097 - INFO - Prediction result: {'probability': 0.4147338271141052, 'class': 0}
+2025-08-15 11:48:02,207 - INFO - Login attempt for UserID: 1234
+2025-08-15 11:48:02,208 - INFO - Login result: You logged in successfully
