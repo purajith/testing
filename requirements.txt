@@ -1,4 +1,2 @@
-xgboost
-pandas
-scikit-learn
-lightgbm
+pandas 
+pytest
